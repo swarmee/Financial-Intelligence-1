@@ -1,0 +1,23 @@
+"""
+
+@author: Hou Lan
+@description: help you to check this package
+
+"""
+
+1. "final_index.xlsx" is our data for model.
+
+2. "data_analysis_index.py" is the python profile for our data analysis
+	before you run it, remember to use pip to install these following packages: seaborn and keras.
+	if you want to see the results directly, go straigtht to "data_analysis_jupyter.pdf" which is exported from Jupyter and I hope 
+	the result will satisfy you.
+3. "crawler.py" is the python profile for crawling baidu index and recognizing the identifying code.
+	before you run it, remember to use pip to install these following packages: selenium, glob, pillow, pyocr and also to download chromedriver.exe
+	of course there are some flaws in this original profile and if you have any advice, please contact me (Hou LAN) on wechat.
+	if you want to avoid steps above but still eager for our method, you can go directly to our powerpoint because there is an introductory video for this part. 
+	However, the version is somewhat out-dated and we've already updated our code.
+	
+	
+	Appreciate your understanding:)!
+
+	
